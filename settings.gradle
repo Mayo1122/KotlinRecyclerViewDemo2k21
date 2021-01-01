@@ -1,0 +1,3 @@
+include ':recyclerviewlib'
+include ':app'
+rootProject.name = "KotlinRecyclerViewDemo2k21"
